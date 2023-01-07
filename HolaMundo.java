@@ -8,7 +8,7 @@ public class HolaMundo {
         int respuesta= 0;
         
 		//Mostramos un mensaje por pantalla al usuario
-		System.out.println("Bienvenido a Estructura de Datos 2. Estas listo para comenzar?");
+		System.out.println("Bienvenido a Programacion 2. Estas listo para comenzar?");
 		System.out.println("Elija una respuesta:");
 		System.out.println("1.POR SUPUESTO QUE SI!");  
         System.out.println("2.NO, AUN NO");
